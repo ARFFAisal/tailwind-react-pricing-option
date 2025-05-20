@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "description": "Perfect for individuals just getting started.",
+    "features": [
+      "1 User",
+      "5 Projects",
+      "Basic Support"
+    ],
+    "price": "$9/month"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "description": "Ideal for small teams and growing projects.",
+    "features": [
+      "5 Users",
+      "50 Projects",
+      "Priority Support",
+      "Team Collaboration Tools"
+    ],
+    "price": "$29/month"
+  },
+  {
+    "id": 3,
+    "name": "Pro Plan",
+    "description": "Advanced tools for professional use.",
+    "features": [
+      "20 Users",
+      "Unlimited Projects",
+      "24/7 Support",
+      "Advanced Analytics",
+      "Custom Integrations"
+    ],
+    "price": "$59/month"
+  },
+  {
+    "id": 4,
+    "name": "Enterprise Plan",
+    "description": "Custom solutions for large organizations.",
+    "features": [
+      "Unlimited Users",
+      "Unlimited Projects",
+      "Dedicated Account Manager",
+      "Enterprise Security",
+      "Custom SLA"
+    ],
+    "price": "Contact Us"
+  },
+  {
+    "id": 5,
+    "name": "Student Plan",
+    "description": "Affordable access for students and educators.",
+    "features": [
+      "1 User",
+      "Unlimited Projects",
+      "Community Support",
+      "Education Resources"
+    ],
+    "price": "$4/month"
+  }
+]
